@@ -1,1 +1,1 @@
-﻿azcopy copy https://bsfilestorage.file.core.windows.net/sessionhostcustomization/applications/?sv=2020-08-04&ss=f&srt=sco&sp=rwdlc&se=2022-01-29T05:36:55Z&st=2022-01-17T21:36:55Z&spr=https&sig=ZCnE7MUGmYtbfvLSI2w1JxMeZZtsV%2BIsDvGexlOKlvw%3D "c:\buildactions2" --recursive
+﻿azcopy copy "https://bsfilestorage.file.core.windows.net/sessionhostcustomization/applications/?sv=2020-08-04&ss=f&srt=sco&sp=rwdlc&se=2022-01-29T05:36:55Z&st=2022-01-17T21:36:55Z&spr=https&sig=ZCnE7MUGmYtbfvLSI2w1JxMeZZtsV%2BIsDvGexlOKlvw%3D" "c:\buildactions2" --recursive
